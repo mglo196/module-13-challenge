@@ -10,6 +10,10 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',  // Allow external network access for dev
     port: 5174,        // Use a custom port (optional)
+    allowedHosts: [
+      'module-13-challenge-2.onrender.com',  // Allow the specific host here
+      'localhost',                           // You can keep localhost if needed
+    ],
   },
   preview: {
     host: '0.0.0.0',  // Make sure preview server is also exposed to external network
