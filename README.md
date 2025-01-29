@@ -90,7 +90,6 @@ https://module-13-challenge-2.onrender.com/
 
 ## Screenshots
 ![Candidate Search](./Assets/candidateSearchPage.png)
-![Saved Candidates](./Assets/savedCandidatesPage.png)
 
 
 
