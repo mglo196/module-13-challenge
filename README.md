@@ -39,7 +39,7 @@ Then, run the following command: npm install
 
 6. Start the development server: Run the following command to start the app: npm run dev
 
-7. View the application: Open http://localhost:5173 in your browser to view the application.
+7. View the application: Open http://localhost:5174 in your browser to view the application.
 
 
 
